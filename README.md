@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KunalBhat55
 - 👀 I’m interested in Cloud Computing 
 - 🌱 I’m currently Pursuing computer engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Cloud and Devops
 - 📫 How to reach me kunalbhat6767@gmail.com
 
 <!---
