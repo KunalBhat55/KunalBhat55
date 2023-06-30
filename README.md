@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KunalBhat55
+- 👋 Hi, I’m Kunal Bhat
 - 👀 I’m interested in Cloud Computing 
-- 🌱 I’m currently Pursuing computer engineering
+- 🌱 I’m a computer engineering graduate
 - 💞️ I’m looking to collaborate on Cloud and Devops
-- 📫 How to reach me kunalbhat6767@gmail.com
+- 📫 Reach me at kunalbhat6767@gmail.com
 
 <!---
 KunalBhat55/KunalBhat55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
