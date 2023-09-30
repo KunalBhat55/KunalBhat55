@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kunalbhat55.github.io/Portfolio/](https://kunalbhat55.github.io/Portfolio/)
 
-- 💬 Ask me about **AWS, JavaScript, Frontend**
+- 💬 Ask me about **AWS, Backend, Frontend**
 
 - 📫 How to reach me **kunalbhat6767@gmail.com**
 
