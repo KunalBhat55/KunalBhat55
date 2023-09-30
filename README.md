@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps**
 
-- 🤝 I’m looking for help with **Kubernetes and React**
-
 - 👨‍💻 All of my projects are available at [https://kunalbhat55.github.io/Portfolio/](https://kunalbhat55.github.io/Portfolio/)
 
 - 💬 Ask me about **AWS, JavaScript, Frontend**
