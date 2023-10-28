@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunal Bhat</h1>
 <h3 align="center">I am Cloud Engineer | DevOps Enthusiast |Web Developer</h3>
 
+[![An image of @kunalbhat55's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunalbhat55)](https://holopin.io/@kunalbhat55)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalbhat55" alt="kunalbhat55" /></a> </p>
 
 - 🌱 I’m currently learning **Docker Kubernetes CI/CD React**
