@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://kunalbhat55.github.io/Portfolio/](https://kunalbhat55.github.io/Portfolio/)
+- 👨‍💻 Check out my portfolio at [https://portfolio-2-0-kunalbhat55s-projects.vercel.app/)
 
 - 💬 Ask me about **AWS, Backend, Frontend**
 
